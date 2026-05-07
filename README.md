@@ -48,31 +48,6 @@ TechnologyPurposeSpring BootBackend FrameworkSpring SecuritySecurity LayerJWT Au
 Database
 TechnologyPurposeMySQLRelational Database
 
-📂 Project Structure
-StackPeak/
-│
-├── frontend/                  # React Frontend (Vite)
-│   ├── src/
-│   │   ├── pages/             # Home, Jobs, Browse, Profile, Login
-│   │   ├── components/        # Reusable UI Components
-│   │   ├── redux/             # Redux Toolkit Store & Slices
-│   │   ├── utils/             # Axios instance, helpers
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   └── package.json
-│
-├── backend/                   # Spring Boot Backend
-│   ├── src/main/java/
-│   │   ├── controller/        # REST Controllers
-│   │   ├── service/           # Business Logic
-│   │   ├── repository/        # JPA Repositories
-│   │   ├── model/             # Entity Classes
-│   │   ├── security/          # JWT & Spring Security
-│   │   └── dto/               # Data Transfer Objects
-│   └── pom.xml
-│
-└── README.md
-
 🔐 Authentication
 The project uses JWT (JSON Web Token) based authentication for secure login and protected routes.
 
