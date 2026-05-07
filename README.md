@@ -78,7 +78,7 @@ StackPeak/
 
 The project uses JWT (JSON Web Token) based authentication for secure login and protected routes.
 
-📸 Screenshots
+# 📸 Screenshots
 🏠 Home Page
 <img width="1920" height="1008" alt="Home Page" src="https://github.com/user-attachments/assets/96600292-144e-405a-9de5-364c45a926c0" />
 🛠️ Admin Dashboard
@@ -100,7 +100,7 @@ npm run dev
 Frontend runs on:
 
 http://localhost:5173
-3️⃣ Backend Setup
+# 3️⃣ Backend Setup
 cd backend
 
 Configure application.properties
@@ -137,7 +137,7 @@ Application APIs
 Apply Job
 Manage Applicants
 Update Status
-🔮 Future Improvements
+# 🔮 Future Improvements
 Email Notifications
 Real-Time Chat
 Resume Analyzer
@@ -145,7 +145,7 @@ AI Job Recommendation
 Admin Analytics Dashboard
 Dark Mode UI
 Pagination & Advanced Filters
-👨‍🎓 Author
+# 👨‍🎓 Author
 Akshay Pratap Singh
 BCA Final Year Student
 Java Full Stack Developer
