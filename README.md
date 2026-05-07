@@ -1,6 +1,7 @@
-🚀 StackPeak - Full Stack Job Portal Web Application
+<img width="1920" height="1008" alt="Screenshot 2026-05-07 032151" src="https://github.com/user-attachments/assets/9f8e5ca9-ebe3-4443-ba86-c2e4409b386a" />🚀 StackPeak - Full Stack Job Portal Web Application
 
 StackPeak is a modern Full Stack Job Portal Platform built using React, Spring Boot, and MySQL.
+
 It allows students/job seekers to explore jobs, apply for opportunities, and manage their profiles, while admins can manage companies, jobs, applicants, and users through a dedicated dashboard.
 
 🌟 Features
@@ -27,6 +28,7 @@ Manage Applicants
 Shortlist Candidates
 Reject Applications
 Manage Users & Roles
+
 🧠 Tech Stack
 Frontend
 React.js
@@ -43,6 +45,7 @@ REST APIs
 Maven
 Database
 MySQL
+
 📂 Project Structure
 StackPeak/
 │
@@ -51,21 +54,34 @@ StackPeak/
 ├── backend/           # Spring Boot Backend
 │
 └── README.md
+
 🔐 Authentication
 
 The project uses JWT (JSON Web Token) based authentication for secure login and protected routes.
 
 📸 Screenshots
-🏠 Admin Dashboard
+ Home Page
+
+<img width="1920" height="1008" alt="Screenshot 2026-05-07 032151" src="https://github.com/user-attachments/assets/96600292-144e-405a-9de5-364c45a926c0" />
 
 
+ Admin Dashboard
 
-💼 Jobs Page
+<img width="960" height="504" alt="Screenshot 2026-05-07 133741" src="https://github.com/user-attachments/assets/1b6bd22f-50b4-43f7-a785-dc4bb7a3fed9" />
 
 
+ Jobs Page
 
-👤 User Profile
+<img width="960" height="504" alt="Screenshot 2026-05-07 134245" src="https://github.com/user-attachments/assets/e4b3bc17-bd46-450c-a44a-9a887d2c10c6" />
 
+
+ User Profile
+
+<img width="1920" height="1008" alt="Screenshot 2026-05-07 032333" src="https://github.com/user-attachments/assets/0f056ca6-d848-4ad7-9637-fb89211cf1b6" />
+
+ Login Page
+
+ <img width="1920" height="1008" alt="Screenshot 2026-05-07 032413" src="https://github.com/user-attachments/assets/01af82a2-1cf2-4fb2-a746-cc3436500dd5" />
 
 
 ⚙️ Installation & Setup
@@ -97,6 +113,7 @@ Run backend:
 Backend runs on:
 
 http://localhost:8080
+
 🌐 API Modules
 User APIs
 Register
@@ -116,7 +133,7 @@ Application APIs
 Apply Job
 Manage Applicants
 Update Status
-L
+
 🔮 Future Improvements
 Email Notifications
 Real-Time Chat
@@ -125,6 +142,7 @@ AI Job Recommendation
 Admin Analytics Dashboard
 Dark Mode UI
 Pagination & Advanced Filters
+
 👨‍🎓 Author
 Akshay Pratap Singh
 BCA Final Year Student
